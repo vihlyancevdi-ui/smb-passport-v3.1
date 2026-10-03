@@ -1,0 +1,16 @@
+ПАСПОРТ МОЛОДОГО БОЙЦА — РОСБИОТЕХ
+
+1. Установите Node.js 22 или новее.
+2. Откройте PowerShell в папке проекта.
+3. Выполните: node server.js
+4. Откройте: http://localhost:3000
+
+ДЕМО-АДМИН:
+admin / ChangeMe123!
+
+ДЕМО-КАНДИДАТЫ:
+dima / Candidate123!
+anna / Candidate123!
+max / Candidate123!
+
+ВНИМАНИЕ: если порт 3000 занят, остановите предыдущий node server.js через Ctrl+C или используйте другой порт: $env:PORT=3010; node server.js
